@@ -1,2 +1,2 @@
 # GuessTheNumberByVHadjinonev
-creating new game Guess The Number
+creating a new game Guess The Number
